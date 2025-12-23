@@ -1,1 +1,1 @@
-# Dyslexic-reader
+# Dyslexia-freindly-reader
