@@ -4,7 +4,7 @@ A web-based reading tool that allows users to enter text and read it in a dyslex
 
 ## Features
 - Text input area for custom reading content
-- Text-to-speech functionality for auditory reading support
+- Text-to-speech (speed adjustment also) functionality for auditory reading support
 - Adjustable font size and line spacing
 - Clean, minimal, and distraction-free reading interface
 - Designed to reduce visual stress while reading
